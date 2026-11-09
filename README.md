@@ -3,7 +3,7 @@
 为 Over The Hill 接入 Steam P2P 联机方案。模组基于 BepInEx 6（IL2CPP）。
 
 ![version](https://img.shields.io/badge/version-v0.1-blue)
-![platform](https://img.shields.io/badge/platform-Windows)
+![platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 ![license](https://img.shields.io/badge/license-Non--Commercial-orange)
 
 > [!IMPORTANT]
