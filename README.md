@@ -5,9 +5,11 @@
 ![version](https://img.shields.io/badge/version-v0.1-blue)
 ![platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 ![license](https://img.shields.io/badge/license-Non--Commercial-orange)
+![AI](https://img.shields.io/badge/AI-generated-blueviolet)
 
 > [!IMPORTANT]
 > 联机会话内所有玩家都必须安装本模组，且版本保持一致，否则无法建立 P2P 通道。
+> 本模组的代码在开发过程中使用了 AI 辅助工具。
 
 ## 目录
 
